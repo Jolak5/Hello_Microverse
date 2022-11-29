@@ -88,7 +88,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: https://github.com/Jolak5/Hello_Microverse.git
 
 <!--
 Example command:
@@ -100,7 +100,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/Jolak5/Hello_Microverse.git
 
 <!--
 Example commands:
@@ -111,22 +111,10 @@ Example commands:
 ```
 --->
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
-To run the project, execute the following command:
+To contribute to this project, execute the following command: git push https://github.com/Jolak5/Hello_Microverse.git
 
 <!--
 Example command:
