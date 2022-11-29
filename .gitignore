@@ -1,4 +1,8 @@
 # .gitignore
 node_modules/
 
+<<<<<<< HEAD
 test.md
+=======
+test.md
+>>>>>>> 46fff6dd04b0f4d75e6ef47b97fea507af33671f
